@@ -11,3 +11,8 @@ div {
 
   justify-content: center;
 }
+
+button {
+  width: 200px;
+  height: 100px;
+}
